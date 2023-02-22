@@ -14,7 +14,7 @@ This tool is based upon [Psi](https://github.com/Th30neAnd0nly/Psi) .This is a t
 ### Try it at [@TrackDownRoBot](https://t.me/TrackDownRoBot)
 
 
-[![Run on Repl.it](https://repl.it/badge/github/Th30neAnd0nly/TrackDown)](https://repl.it/github.com/shubham-king/CAMERAHACKING)
+[![Run on Repl.it](https://repl.it/badge/github/Th30neAnd0nly/TrackDown)](https://repl.it/github/shubham-king/CAMERAHACKING)
  
 #### Video Tutorial 
 
